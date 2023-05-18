@@ -77,10 +77,3 @@ independent of the framework.
 ### E2E testing
 
 [Readme](./spec/README.md)
-
-## Authors
-
-- [@cjav_dev](https://twitter.com/cjav_dev)
-- [@thorwebdev](https://twitter.com/thorwebdev)
-- [@aliriaz](https://github.com/aliriaz-stripe)
-- [@charlesw](https://twitter.com/charlesw_dev)
